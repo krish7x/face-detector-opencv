@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "terminalCursor.foreground": "#4c00ff",
+        "terminal.background": "#0D0D0D",
+        "terminal.foreground": "#faf3fa"
+    },
+    "python.pythonPath": "C:\\Program Files\\Python38\\python.exe"
+}
